@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Site simples, onde simula uma Navegação básica em 
+Site simples, onde simula uma Navegação básica em um site de Streaming de videos
 
 Projeto criado no Chapter 1 do Curso Ignite da Rocketseat :)
 
@@ -25,4 +25,6 @@ Primeiro é necessario configurar o ambiente!
 
 [acesse este link para configurar](https://www.notion.so/Instala-o-das-ferramentas-2e3f74b481204a69a1189a4cfe54adc7)
 
-Após Totalmente configurado, basta apenas escrever **yarn start"" no terminal, dentro da pasta do projeto :)
+Após Totalmente configurado, basta apenas escrever **yarn server"" no terminal, dentro da pasta do projeto, para iniciar o servidor("banco de dados") :)
+
+depois disto é apenas escrever **yarn start**
